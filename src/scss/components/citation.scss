@@ -1,0 +1,24 @@
+.citation{
+  background-attachment: fixed;
+
+  display: flex;
+  justify-content: center;
+  color:var(--couleur-texte-hero);
+  text-transform: uppercase;
+  background-image:url(../images/bg-citation.jpg);
+  background-size: cover;
+  background-position:center;
+
+  padding-top: 100px;
+  padding-right: 217px;
+  padding-left: 250px;
+  padding-bottom: 142px;
+
+  .conteneur {
+
+  width:80vw;
+  padding-top: 202px;
+  padding-bottom:202px;
+
+}
+}

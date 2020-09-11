@@ -1,0 +1,24 @@
+
+.cartes{
+  display:flex;
+  justify-content: space-between;
+  flex-wrap:wrap;
+
+}
+.carte{
+  width:30%;
+  background: var(--couleur-texte-hero);
+  margin-top: 90px;
+  box-shadow: 0 0 50px grey;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+
+  p{
+  text-align: center;
+  padding-right: 18px;
+  padding-left: 18px;
+  padding-bottom: 42px;
+}
+}
+

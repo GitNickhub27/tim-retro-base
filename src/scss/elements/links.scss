@@ -1,0 +1,33 @@
+
+
+a:hover{
+  color: var(--couleur-hero);
+}
+
+.hero {
+
+  p a{
+    margin-top:10px;
+    font-size: 36px;
+  }
+  .content a:hover{
+    color:var(--couleur-hero);
+  }
+  .content a{
+     text-decoration:none;
+     color:var(--couleur-texte-hero);
+     font-size:65px;
+   }
+}
+.footer-principal{
+  a{
+    color: var(--couleur-texte-hero);
+    text-decoration: none;
+  }
+  a:hover{
+    color:var(--couleur-hero);
+  }
+
+}
+
+

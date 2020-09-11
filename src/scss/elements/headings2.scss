@@ -1,0 +1,40 @@
+
+h1,h2{
+  font-family: var(--fontSecondaire);
+  color:var(--couleur-texte-hero);
+}
+h2{
+  font-size: 360px;
+  padding-bottom: 0;
+  margin-bottom:0 ;
+  height:40% ;
+}
+h1{
+  width:100vw;
+  margin-top:0;
+  padding-top: 0;
+  padding-left: 149px;
+  font-size:109px;
+  position: fixed;
+  top:0;
+  left:0;
+  z-index: 999;
+}
+h3{
+  font-size: 180px;
+  padding-bottom: 0;
+  margin-bottom: 0;
+}
+h4{
+  text-align: center;
+  text-transform: uppercase;
+  margin-top:30px;
+}
+.header-principal  h1{
+  background-color: black;
+  margin:0;
+}
+.citation h3{
+   font-size:123px;
+   width:90%;
+ }
